@@ -62,12 +62,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arijit429/Arijit429/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arijit429&theme=tokyonight" />
 </p>
 
+## 🎯 Contribution Radar
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Commits','PRs','Issues','Reviews'],datasets:[{data:[41,19,1,39]}]}}" />
+</p>
 ---
 
 ## 🌐 Connect With Me
