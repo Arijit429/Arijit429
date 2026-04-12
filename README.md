@@ -68,11 +68,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arijit429&theme=tokyonight" />
 </p>
 
-## 🎯 Contribution Radar
+## 📊 GitHub Activity Radar
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Commits','PRs','Issues','Reviews'],datasets:[{data:[41,19,1,39]}]}}" />
-</p>
+![Metrics](https://metrics.lecoq.io/Arijit429?template=classic&base.header=0&base.activity=1&plugin_activity=1&plugin_activity_limit=5)
 ---
 
 ## 🌐 Connect With Me
