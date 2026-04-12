@@ -71,11 +71,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arijit-deb-78a385382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arijit%20Deb-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
   <a href="mailto:arijitdeb1203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-arijitdeb1203%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
