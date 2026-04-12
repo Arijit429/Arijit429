@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+ARIJIT+DEB;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Arijit+Deb;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Explorer+🚀" />
 </h1>
 
 <h3 align="center">✨ Turning Ideas into Intelligent Solutions ✨</h3>
@@ -50,12 +50,22 @@
 
 ---
 
+## 📊 Activity Overview
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit429&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Arijit429&theme=tokyonight" />
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Arijit429/Arijit429/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -64,13 +74,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arijit-deb-78a385382/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Arijit%20Deb-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
+  
   <a href="mailto:arijitdeb1203@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-arijitdeb1203%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## ⚡ Fun Fact
