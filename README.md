@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Arijit+Deb;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Lover+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+ARIJIT+DEB;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Explorer+🚀" />
 </h1>
 
 <h3 align="center">✨ Turning Ideas into Intelligent Solutions ✨</h3>
