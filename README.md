@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Arijit+Deb;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+ARIJIT+DEB;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Explorer+🚀" />
 </h1>
 
 <h3 align="center">✨ Turning Ideas into Intelligent Solutions ✨</h3>
@@ -68,10 +68,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arijit429&theme=tokyonight" />
 </p>
 
-## 📊 GitHub Activity Radar
 
-![Metrics](https://metrics.lecoq.io/Arijit429?template=classic&base.header=0&base.activity=1&plugin_activity=1&plugin_activity_limit=5)
----
 
 ## 🌐 Connect With Me
 
