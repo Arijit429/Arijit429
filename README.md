@@ -67,7 +67,34 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arijit429&theme=tokyonight" />
 </p>
 
+## 📊 Contribution Dashboard
 
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arijit429&theme=tokyonight" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://quickchart.io/chart?c={
+type:'radar',
+data:{
+labels:['Commits','PRs','Issues','Reviews'],
+datasets:[{
+label:'Activity',
+data:[41,19,1,39],
+backgroundColor:'rgba(0,255,255,0.2)',
+borderColor:'cyan'
+}]
+}
+}" />
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
