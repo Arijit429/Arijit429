@@ -52,9 +52,6 @@
 
 ## 📊 Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit429&theme=tokyo-night&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=Arijit429&theme=tokyonight" />
