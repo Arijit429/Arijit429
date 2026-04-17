@@ -52,26 +52,55 @@
 
 ---
 
+---
+
 ## 🔥 Open Source — GSoC 2026 Contributor
 
 **Project:** [FireForm](https://github.com/fireform-core/FireForm) — AI-powered PDF form filling for first responders (UN OICT)
 
 **22 Pull Requests** across 13 areas:
 
-| Area | PRs |
-|---|---|
-| Core LLM Pipeline | Structured extraction, confidence scoring, timeout + retry |
-| Security | Upload validation, input sanitization, traceback leakage prevention |
-| API Architecture | Global exception handlers, health check, lifespan lifecycle |
-| DevOps | Dockerfile fix, GitHub Actions CI pipeline |
-| Frontend | Duplicate submit prevention, loading states |
-| Testing | Route integration tests, edge cases, negative paths |
-| Documentation | README improvements |
+<table>
+<tr>
+<td align="center">🔧<br><b>Backend</b><br>Stability & DB init</td>
+<td align="center">🧪<br><b>Testing</b><br>Route & edge cases</td>
+<td align="center">🔒<br><b>Security</b><br>Upload & input validation</td>
+<td align="center">🚀<br><b>Deployment</b><br>Docker & CORS</td>
+</tr>
+<tr>
+<td align="center">🧠<br><b>LLM Pipeline</b><br>Timeout, retry, extraction</td>
+<td align="center">⚠️<br><b>Error Handling</b><br>Global exception handlers</td>
+<td align="center">🩺<br><b>Health Check</b><br>Lifespan & /health</td>
+<td align="center">⚡<br><b>CI/CD</b><br>GitHub Actions pipeline</td>
+</tr>
+<tr>
+<td align="center">🎨<br><b>Frontend</b><br>Submit locks & UX</td>
+<td align="center">📝<br><b>Logging</b><br>Structured pipeline logs</td>
+<td align="center">📄<br><b>Documentation</b><br>README & setup</td>
+<td align="center">✅<br><b>Validation</b><br>Schema & input guards</td>
+</tr>
+</table>
+
+### Tech stack used
+
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLModel-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pdfrw-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-orange?style=flat-square&logo=html5&logoColor=white"/>
+</p>
 
 🔗 [View all contributions](https://github.com/fireform-core/FireForm/pulls?q=is%3Apr+author%3AArijit429)
 
 ---
-
 ## 📊 Activity Overview
 
 
