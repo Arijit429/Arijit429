@@ -112,6 +112,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arijit429&theme=tokyonight" />
+</p>
 
 ## ⚡ Fun Fact
 
