@@ -50,6 +50,28 @@
 
 ---
 
+---
+
+## 🔥 Open Source — GSoC 2026 Contributor
+
+**Project:** [FireForm](https://github.com/fireform-core/FireForm) — AI-powered PDF form filling for first responders (UN OICT)
+
+**22 Pull Requests** across 13 areas:
+
+| Area | PRs |
+|---|---|
+| Core LLM Pipeline | Structured extraction, confidence scoring, timeout + retry |
+| Security | Upload validation, input sanitization, traceback leakage prevention |
+| API Architecture | Global exception handlers, health check, lifespan lifecycle |
+| DevOps | Dockerfile fix, GitHub Actions CI pipeline |
+| Frontend | Duplicate submit prevention, loading states |
+| Testing | Route integration tests, edge cases, negative paths |
+| Documentation | README improvements |
+
+🔗 [View all contributions](https://github.com/fireform-core/FireForm/pulls?q=is%3Apr+author%3AArijit429)
+
+---
+
 ## 📊 Activity Overview
 
 
