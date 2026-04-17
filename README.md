@@ -83,6 +83,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arijit429&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit429&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📊 Contribution Overview
 
 <p align="center">
