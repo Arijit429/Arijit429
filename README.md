@@ -56,7 +56,7 @@
 
 ## 🔥 Open Source — GSoC 2026 Contributor
 
-**Project:** [FireForm](https://github.com/fireform-core/FireForm) — AI-powered PDF form filling for first responders (UN OICT)
+**Project:** [FireForm](https://github.com/fireform-core/FireForm) — AI-powered PDF form filling to reduce paperwork for FireFighters (UN OICT)
 
 **22 Pull Requests** across 13 areas:
 
