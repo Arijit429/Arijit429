@@ -4,9 +4,7 @@
 
 <h3 align="center">✨ Turning Ideas into Intelligent Solutions ✨</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arijit429&label=Profile%20Views&color=00f7ff&style=flat-square" alt="profile views" />
-</p>
+
 
 ---
 
