@@ -1,82 +1,222 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+ARIJIT+DEB;AI+%26+ML+Enthusiast;Open+Source+Contributor;Hackathon+Explorer+🚀;Math+%26+Competitive+Coder+🧮" />
+</h1>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  ARIJIT DEB  ·  CS/AI+ML  ·  Bangalore                 ║
-║  Open Source  ·  Hackathons  ·  Research                ║
-╚══════════════════════════════════════════════════════════╝
-```
+<h3 align="center">✨ Turning Ideas into Intelligent Solutions ✨</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-deb-78a385382/)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Arijit429)
-[![Gmail](https://img.shields.io/badge/arijitdeb1203@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arijitdeb1203@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arijit429&label=Profile%20Views&color=00f7ff&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
-### WHO
+## 👨‍💻 About Me
 
-B.Tech CSE (AI & ML), first year — building things at the intersection of open source, generative AI, and systems.
-
-Former national-level volleyball player (2018–2021) and state-level swimmer (2019). Competitive instinct, applied to code.
-
-Qualified **RMO 2023** — the math background shows up in how I approach problems.
-
----
-
-### WHAT I'VE SHIPPED
-
-**[FireForm](https://github.com/fireform-core/FireForm)** — UN OICT / GSoC 2026
-> AI-powered PDF form filling for firefighters. I made **29 PRs across 14 domains** — backend stability, LLM pipeline hardening, CI/CD, security, testing, Docker, and frontend UX. Most active external contributor on the project.
->
-> `Python` `FastAPI` `SQLModel` `Docker` `Ollama` `GitHub Actions` `pytest`
-
-**[sonar-cryptography](https://github.com/IBM/sonar-cryptography)** — LFX Mentorship / Linux Foundation
-> Fixed cryptographic false positives in IBM's static analysis tool. Contribution merged upstream.
->
-> `Java` `Static Analysis` `Cryptography`
-
-**OpenEnv** — Hackathon Project
-> Agentic AI workflow environment — built end-to-end for a hackathon. Full pipeline from prompt to orchestrated agent execution.
->
-> `Python` `Generative AI` `Agentic Systems`
+- 🎓 Studying **Computer Science (AI & ML)**
+- 🤖 Passionate about **Artificial Intelligence & Generative AI**
+- 🧠 Love building with **Machine Learning**
+- 🏆 Active in **Hackathons** and **Open Source**
+- 🌍 Contributing to **UN OICT**, **Linux Foundation**, and more
+- 🥉 **IMC 2023 Bronze Medalist** — International Mathematics Championship
+- 🧮 **RMO 2023 Qualifier** — Regional Mathematical Olympiad
+- 📈 **WorldQuant BRAIN IQC 2026** — Top 100 Globally · Stage 2 · Research Consultant
 
 ---
 
-### CURRENT STACK
+## 🚀 Tech Stack
 
-```
-Languages   →  Python  C++  Java  JavaScript  Go
-AI/ML       →  NumPy  Pandas  Generative AI  LLM Pipelines
-Web         →  React  Node.js  HTML/CSS  FastAPI
-Tools       →  Docker  GitHub Actions  Git  pytest  SQLite
-```
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+### 📊 Data Science & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Pipelines-FF6B6B?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
-### BY THE NUMBERS
-
-| | |
-|---|---|
-| Open source PRs | **29** across 14 domains |
-| Orgs contributed to | UN OICT · IBM / Linux Foundation |
-| Hackathons shipped | Active |
-| WorldQuant BRAIN IQC | Stage 2 — Team TROGON |
-| RMO | Qualified 2023 |
+---
 
 ---
 
-### WHAT'S NEXT
+## 🔥 Open Source — GSoC 2026 Contributor
 
-Research internships · Competitive programming · AI systems that do real work.
+**Project:** [FireForm](https://github.com/fireform-core/FireForm) — AI-powered PDF form filling to reduce paperwork for FireFighters (UN OICT)
+
+<table>
+<tr>
+<td align="center">🔧<br><b>Backend</b><br>Stability & DB init</td>
+<td align="center">🧪<br><b>Testing</b><br>Route & edge cases</td>
+<td align="center">🔒<br><b>Security</b><br>Upload & input validation</td>
+<td align="center">🚀<br><b>Deployment</b><br>Docker & CORS</td>
+</tr>
+<tr>
+<td align="center">🧠<br><b>LLM Pipeline</b><br>Timeout, retry, extraction</td>
+<td align="center">⚠️<br><b>Error Handling</b><br>Global exception handlers</td>
+<td align="center">🩺<br><b>Health Check</b><br>Lifespan & /health</td>
+<td align="center">⚡<br><b>CI/CD</b><br>GitHub Actions pipeline</td>
+</tr>
+<tr>
+<td align="center">🎨<br><b>Frontend</b><br>Submit locks & UX</td>
+<td align="center">📝<br><b>Logging</b><br>Structured pipeline logs</td>
+<td align="center">📄<br><b>Documentation</b><br>README & setup</td>
+<td align="center">✅<br><b>Validation</b><br>Schema & input guards</td>
+</tr>
+</table>
+
+### Tech stack used
+
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLModel-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pdfrw-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-orange?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+🔗 [View all contributions](https://github.com/fireform-core/FireForm/pulls?q=is%3Apr+author%3AArijit429)
 
 ---
 
-<div align="center">
+## 🔐 LFX Mentorship — Linux Foundation
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit429&theme=tokyo-night&hide_border=true" />
+**Project:** [sonar-cryptography](https://github.com/IBM/sonar-cryptography) — IBM's cryptographic static analysis tool
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit429&theme=tokyonight&hide_border=true" />
+- 🛠️ Fixed **cryptographic false positives** that caused legitimate code to be incorrectly flagged
+- ✅ Contribution **merged upstream** into the IBM repository
+- 🌐 Selected as part of the **Linux Foundation LFX Mentorship Program**
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Static%20Analysis-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cryptography-00897B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Foundation-003366?style=flat-square&logo=linux&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 Projects
+
+### ⚡ OpenEnv — Agentic AI Workflow Environment
+> Built end-to-end for a hackathon. A modular environment for orchestrating AI agents — from prompt to full execution pipeline.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic%20Systems-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM%20Orchestration-00F7FF?style=flat-square"/>
+</p>
+
+---
+
+## 🏅 Achievements & Recognition
+
+<table>
+<tr>
+<td align="center">🥉<br><b>ISO</b><br>International Space Olympiad(2021,2022)<br>**Bronze Medalist**</td>
+<td align="center">🐧<br><b>Linux Foundation</b><br>LFX Mentorship<br>IBM sonar-cryptography</td>
+<td align="center">📈<br><b>WorldQuant BRAIN</b><br>IQC 2026 Top 100<br>Research Consultant</td>
+<td align="center">🧮<br><b>RMO 2023</b><br>Regional Math<br>Olympiad Qualifier</td>
+</tr>
+<tr>
+<td align="center">🥉<br><b>IMC 2023</b><br>International Math<br>Championship Bronze</td>
+<td align="center">🔬<br><b>WorldQuant</b><br>Research Consultant<br>IQC Top 100</td>
+<td align="center">🚀<br><b>Hackathons</b><br>Multiple Projects<br>Shipped & Counting</td>
+<td align="center">⭐<br><b>100+PRs</b><br>19 Domains<br>Open Source</td>
+</tr>
+</table>
+
+---
+
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit429&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit429&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arijit429&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arijit-deb-78a385382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:arijitdeb1203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Arijit429" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arijit429&theme=tokyonight" />
+</p>
+
+## ⚡ Fun Fact
+
+💡 *"From math olympiads to LLM pipelines — I compete, I build, I ship."*
+
+---
+
+<p align="center">🔥 Keep Building | Keep Learning | Keep Winning 🚀</p>
