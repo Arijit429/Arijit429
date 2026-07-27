@@ -154,12 +154,12 @@
 <tr>
 <td align="center">🥉<br><b>ISO</b><br>International Space Olympiad(2021,2022)<br>**Bronze Medalist**</td>
 <td align="center">🐧<br><b>Linux Foundation</b><br>LFX Mentorship<br>IBM sonar-cryptography</td>
-<td align="center">📈<br><b>WorldQuant BRAIN</b><br>IQC 2026 Top 100<br>Research Consultant</td>
+<td align="center">📈<br><b>WorldQuant BRAIN</b><br>IQC 2026 Top 100 India</td>
 <td align="center">🧮<br><b>RMO 2023</b><br>Regional Math<br>Olympiad Qualifier</td>
 </tr>
 <tr>
 <td align="center">🥉<br><b>IMC 2023</b><br>International Math<br>Championship Bronze</td>
-<td align="center">🔬<br><b>WorldQuant</b><br>Research Consultant<br>IQC Top 100</td>
+<td align="center">🔬<br><b>WorldQuant</b><br>Research Consultant<br></td>
 <td align="center">🚀<br><b>Hackathons</b><br>Multiple Projects<br>Shipped & Counting</td>
 <td align="center">⭐<br><b>100+PRs</b><br>19 Domains<br>Open Source</td>
 </tr>
