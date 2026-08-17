@@ -70,9 +70,9 @@
 
 ---
 
-## 🔥 Open Source — GSoC 2026 Contributor
+## 🔥 Open Source — GSoC LFX 2026 Contributor
 
-**Project:** [FireForm](https://github.com/fireform-core/FireForm) — AI-powered PDF form filling to reduce paperwork for FireFighters (UN OICT)
+
 
 <table>
 <tr>
